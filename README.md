@@ -1,4 +1,4 @@
-m ruble parser
+# rate.am ruble parser
 
 You can get last ruble to amd price in Yerevan
 
